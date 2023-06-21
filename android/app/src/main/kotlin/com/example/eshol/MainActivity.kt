@@ -1,4 +1,4 @@
-package com.example.eshol
+package com.example.duar
 
 import io.flutter.embedding.android.FlutterActivity
 
